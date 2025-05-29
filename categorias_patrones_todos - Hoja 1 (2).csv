@@ -1,0 +1,59 @@
+Patronpalabra,Categoria
+amig[oa]s?,relaciones_sociales
+bullying,relaciones_sociales
+centro de trabajo,relaciones_sociales
+(cohesión laboral|laboral(es)?),relaciones_sociales
+colegios?,relaciones_sociales
+compañer[oa]s?,relaciones_sociales
+cuidador,relaciones_sociales
+cuidadora,relaciones_sociales
+cuidadores,relaciones_sociales
+cuñad[oa]s?,relaciones_sociales
+escuel\w*,relaciones_sociales
+(entornos? familiar(es)?|cohesión familiar|famili\w*),relaciones_sociales
+hij[oa]s?,relaciones_sociales
+madres?,relaciones_sociales
+padres?,relaciones_sociales
+parejas? sexual(es)?,relaciones_sociales
+relación de amistad,relaciones_sociales
+relaciones de amistad,relaciones_sociales
+suegr[oa]s?,relaciones_sociales
+(cohesión social|relaci(o|ó)n(es)? social(es)?|actividad(es)? social(es)?|contactos? social(es)?|aislamiento social|aisl\w*|social\w*),relaciones_sociales
+cannabi\w*,sust_tox
+droga,sust_tox
+sustancias?,sust_tox
+tóxicos?,sust_tox
+porros?,sust_tox
+aceites?,habitos_salud
+activ\w*,habitos_salud
+actividad física,habitos_salud
+aliment\w*,habitos_salud
+bebidas?,habitos_salud
+cafe\w*,habitos_salud
+caminar,habitos_salud
+comidas?,habitos_salud
+correr,habitos_salud
+cuidados? higiénicos?,habitos_salud
+cuidados movilidad,habitos_salud
+deportes?,habitos_salud
+des?hidr\w*,habitos_salud
+dieta,habitos_salud
+dorm\w*,habitos_salud
+ejercicio\w*,habitos_salud
+ejercicio (principalmente |normalmente )?físico,habitos_salud
+frutas?,habitos_salud
+frutos? secos?,habitos_salud
+gras\w*,habitos_salud
+hidratos de carbono,habitos_salud
+huevos?,habitos_salud
+leche,habitos_salud
+nutrición,habitos_salud
+sedentarismo,habitos_salud
+sueño,habitos_salud
+suplementos?,habitos_salud
+verduras?,habitos_salud
+vida activa,habitos_salud
+fum\w*,consum_tabaco
+taba(c|qu)\w*,consum_tabaco
+humo,consum_tabaco
+alcohol,consum_alcohol
