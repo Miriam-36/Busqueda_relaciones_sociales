@@ -1,0 +1,21 @@
+Patronpalabra,Categoria
+amig[oa]s?,Comunidad
+bullying,Comunidad
+centro de trabajo,Entorno educativo/laboral
+(cohesión laboral|laboral(es)?),Entorno educativo/laboral
+colegios?,Entorno educativo/laboral
+compañer[oa]s?,Entorno educativo/laboral
+cuidador,Comunidad
+cuidadora,Comunidad
+cuidadores,Comunidad
+cuñad[oa]s?,Familia
+escuel\w*,Entorno educativo/laboral
+(entornos? familiar(es)?|cohesión familiar|famili\w*),Familia
+hij[oa]s?,Familia
+madres?,Familia
+padres?,Familia
+parejas? sexual(es)?,Comunidad
+relación de amistad,Comunidad
+relaciones de amistad,Comunidad
+suegr[oa]s?,Familia
+(cohesión social|relaci(o|ó)n(es)? social(es)?|actividad(es)? social(es)?|contactos? social(es)?|aislamiento social|aisl\w*|social\w*),Comunidad
