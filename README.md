@@ -1,0 +1,1 @@
+Estas transcripciones forman parte de un corpus más amplio de subtítulos y vídeos tomados de fuentes autorizadas, recogido desde 2021 en el Consejo Superior de Investigaciones Científicas, y supervisado por Leonardo Campillos Llanos (ILLA-CSIC)
